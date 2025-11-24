@@ -280,6 +280,7 @@ The pipeline expects retail transaction data with the following structure:
 - [Data Dictionary](docs/data_dictionary.md) - Column definitions and transformations
 - [Setup Guide](docs/setup_guide.md) - Detailed installation instructions
 - [API Reference](docs/api_reference.md) - Coming soon
+- [Why Data Ingestion Matters](docs/why_data_ingestion.md) - **← ADD THIS**
 
 ---
 
